@@ -1,0 +1,159 @@
+
+
+
+@media screen and (max-width: 991px) { 
+    #tudoC {
+        position: relative;
+        top: 200px;
+        left: 0px;
+    }
+
+    .it {
+        height: 49.9px;
+    }
+
+    #titleC {
+        position: relative;
+        top: -10px;
+    }
+
+    .rede {
+        position: relative;
+        top: 50px;
+        left: 26px;
+    }
+
+ }
+
+#titleC:hover {
+    filter: brightness(65%);
+}
+
+.typeC:hover {
+    filter: brightness(65%);
+}
+
+
+
+#fixed {
+    position: relative;
+    top: 160px;
+    left: 40%;
+}
+
+.rede:hover {
+    position: relative;
+    filter: brightness(65%);
+    left: 1px;
+}
+
+.rede:active {
+    position: relative;
+    left: 2px;
+}
+
+.tudo {
+    max-width: 800px;
+    width: 600px;
+    position: relative;
+    top: 150px;
+    left: 25%;
+    display: flex;
+    color: white;
+    border: 1px solid lightgray;
+    border-radius: 2px;
+    flex-direction: row;
+    
+}
+
+.esquerda {
+    display: block;
+    
+}
+
+.title {
+    
+    display: block;
+    width: 100%;
+  
+    
+    
+}
+
+
+
+.cont {
+    
+    width: 100%;
+    
+    
+}
+
+td {
+    
+    width: 11px;
+    height: 11px;  }
+
+.grades {
+    border: 1px solid black;
+}
+
+.remove {
+    background-color: #343a40;
+}
+
+.it {
+    cursor: pointer;
+}
+
+.tC {
+    text-align: left;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.black {
+    background-color: black;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.white {
+    background-color: white;
+}
+
+.roxo {
+    background-color: rgb(113, 5, 255);
+}
+
+
+
+.idN {
+  color: white;
+}
+
+.it:hover{
+    position: relative;
+    left: 1px;
+}
+
+.it:active {
+    position: relative;
+    left: 2px;
+}
