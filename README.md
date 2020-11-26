@@ -29,7 +29,7 @@ ___
 
 ## :information_source: Sobre
 
-Criando um editor de imagens em pixels de 11x11
+Criando um bloco de colorir em pixels de 11x11
 
 ## :interrobang: Motivo
 
