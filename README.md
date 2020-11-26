@@ -4,11 +4,6 @@
 ___
 
 <p align="center">
-  <img src="https://bloco-de-colorir-git-main.joaocarlopa.vercel.app/" width="300" heigth="300">
-</p>
-
-
-<p align="center">
   <a href="LICENSE">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
   </a>
@@ -42,6 +37,7 @@ Aprofundar em JQuery/Bootstrap
 
 ## :seedling: Requisitos Mínimos
 
+- Vscode
 
 
 ## :rocket: Tecnologias Utilizadas 
