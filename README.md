@@ -22,7 +22,7 @@ ___
 
 ___
 
-<img src=" https://github.com/joaocarlopa/Bloco_de_colorir/blob/main/intro2.png" width="1200">
+<img src="https://github.com/joaocarlopa/Bloco_de_colorir/blob/main/intro2.png" width="1200">
 <img src="https://github.com/joaocarlopa/Bloco_de_colorir/blob/main/intro3.png" width="1200">
 <img src="https://github.com/joaocarlopa/Bloco_de_colorir/blob/main/intro4.png" width="1200">
 
