@@ -5,7 +5,7 @@ ___
 
 <p align="center">
   <a href="LICENSE">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
+    <img alt="License" src="https://github.com/joaocarlopa/Bloco_de_colorir/blob/main/intro.png">
   </a>
 </p>
 
@@ -22,10 +22,10 @@ ___
 
 ___
 
-<img src="https://readme-maker.herokuapp.com/uploads/65b6fd867ef7212f-intro.png" width="1200">
-<img src="https://readme-maker.herokuapp.com/uploads/02247a87e8e2b214-intro2.png" width="1200">
+<img src=" https://github.com/joaocarlopa/Bloco_de_colorir/blob/main/intro2.png" width="1200">
+<img src="https://github.com/joaocarlopa/Bloco_de_colorir/blob/main/intro3.png" width="1200">
 <img src="https://readme-maker.herokuapp.com/uploads/3c43f73f3cd22dc8-intro3.png" width="1200">
-<img src="https://readme-maker.herokuapp.com/uploads/cebe0f596bcd892d-intro4.png" width="1200">
+
 
 ## :information_source: Sobre
 
