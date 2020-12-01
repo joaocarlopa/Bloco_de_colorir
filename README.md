@@ -24,7 +24,7 @@ ___
 
 <img src=" https://github.com/joaocarlopa/Bloco_de_colorir/blob/main/intro2.png" width="1200">
 <img src="https://github.com/joaocarlopa/Bloco_de_colorir/blob/main/intro3.png" width="1200">
-<img src="https://readme-maker.herokuapp.com/uploads/3c43f73f3cd22dc8-intro3.png" width="1200">
+<img src="https://github.com/joaocarlopa/Bloco_de_colorir/blob/main/intro4.png" width="1200">
 
 
 ## :information_source: Sobre
