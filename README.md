@@ -5,7 +5,7 @@ ___
 
 <p align="center">
   <a href="LICENSE">
-    <img alt="License" src="https://github.com/joaocarlopa/Bloco_de_colorir/blob/main/intro.png">
+    <img alt="License" src="https://github.com/joaocarlopa/Bloco_de_colorir/blob/main/intro.png" width="1200">
   </a>
 </p>
 
